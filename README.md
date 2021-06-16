@@ -1,5 +1,2 @@
 # hrms-react
-<p align="center">
-  <img src="https://ibb.co/XDtgH2p" width="350" title="hover text">
-  
-</p>
+![alt tag](https://user-images.githubusercontent.com/75851157/122214268-925cfc00-ceb2-11eb-8405-f6b32dfda918.png)
